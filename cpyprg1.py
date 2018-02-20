@@ -1,4 +1,4 @@
-from p2 import To_do_list
+from prg1 import To_do_list
 
 ma=To_do_list("work")
 while True:
